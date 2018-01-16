@@ -8,10 +8,3 @@ ex3, c1
 
 ex4, c1
 
-<<<<<<< HEAD
-ex5, c1
-ex5, c2
-=======
-ex5, c1a
-ex5, c2a
->>>>>>> refs/heads/features/featureGFT
