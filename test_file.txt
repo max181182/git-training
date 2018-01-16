@@ -1,1 +1,8 @@
+<<<<<<< HEAD
 This is a test
+=======
+This is a test
+>>>>>>> refs/remotes/origin/master
+
+
+test
